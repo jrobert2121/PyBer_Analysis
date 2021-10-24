@@ -7,8 +7,8 @@ Pyber, a ride sharing app company, has requested an analysis of all rideshare da
 Create a summary dataframe of the ride-sharing data by city type and then create a multiple line graph to illustrate the total weekly fares for each city type to determine how the data differs by city type.
 
 ## Resources
-Data Sources: [city_data.csv](Resources/city_data.csv), [ride_data.csv](Resources/ride_data.csv)
-Software: Python 3.7.10, Jupyter Notebook 6.3.0, Matplotlib 3.3.4
+- Data Sources: [city_data.csv](Resources/city_data.csv), [ride_data.csv](Resources/ride_data.csv)
+- Software: Python 3.7.10, Jupyter Notebook 6.3.0, Matplotlib 3.3.4
 
 ## Results
 
